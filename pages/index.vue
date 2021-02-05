@@ -5,6 +5,7 @@
       <h1 class="title">
         HELLO ALL
       </h1>
+      <p>Comment ca va bien ?</p>
     </div>
   </div>
 </template>
